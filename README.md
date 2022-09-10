@@ -1,0 +1,1 @@
+Resources for [GTI720 -- Protection des renseignements personnels](https://www.etsmtl.ca/etudes/cours/GTI720)
